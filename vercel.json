@@ -10,7 +10,7 @@
 
     "headers": [
       {
-        "source": "**/*.js",
+        "source": "/public/(.*)\\.js",
         "headers": [
           {
             "key": "Content-Type",

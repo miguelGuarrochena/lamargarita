@@ -1,7 +1,6 @@
 {
   "name": "10-calendar-backend",
   "version": "1.0.0",
-  "home": ".",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon index.js",
